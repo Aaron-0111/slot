@@ -144,7 +144,9 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2024-03-19 140722](https://github.com/Aaron-0111/slot/assets/149347631/a79307e4-3b02-4b5d-881f-8e6261d4044e)
+![Screenshot 2024-03-22 151807](https://github.com/Aaron-0111/slot/assets/149347631/89ebd688-87ab-4e70-86f5-d89da9a1f0f7)
+![Screenshot 2024-03-22 151745](https://github.com/Aaron-0111/slot/assets/149347631/84b9f3a3-566a-4a5d-8378-e848189039fd)
+
 
 
 ## RESULT
